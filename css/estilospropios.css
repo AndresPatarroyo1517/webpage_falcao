@@ -1,0 +1,9 @@
+#falcao {
+    transition: transform 0.8s ease; 
+    transform-origin: bottom; 
+}
+
+#falcao:hover {
+    transform: scale(1.1) translateX(-45%);
+    cursor: pointer; 
+}
