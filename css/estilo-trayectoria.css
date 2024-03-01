@@ -1,0 +1,18 @@
+.titulo-equipos{
+    text-align: center;
+}
+
+.temporada{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+
+.contenedor-img-equipos{
+    text-align: center;
+}
+
+.img-equipos{
+    width: 150px;
+    height: 150px;
+}
