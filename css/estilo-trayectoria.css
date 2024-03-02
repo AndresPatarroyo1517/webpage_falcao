@@ -16,3 +16,14 @@
     width: 150px;
     height: 150px;
 }
+
+.titulo-titulos{
+    text-align: center;
+    color: rgba(226, 30, 128, 1);
+    font-weight: bold;
+}
+
+.img-titulos{
+    width: 130px;
+    height: 130px;
+}
