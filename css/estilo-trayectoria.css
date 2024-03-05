@@ -27,25 +27,3 @@
     width: 130px;
     height: 130px;
 }
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin-bottom: 20px;
-  }
-  th, td {
-    padding: 12px;
-    text-align: left;
-    border-bottom: 1px solid #f0f0f0;
-  }
-  th {
-    background-color: #f8f8f8;
-    font-weight: bold;
-    color: #333;
-  }
-  tr:nth-child(even) {
-    background-color: #f8f8f8;
-  }
